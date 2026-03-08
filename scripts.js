@@ -2,8 +2,8 @@
 'use strict';
 
 // === R.P.D. TERMINAL DOWNLOAD LINK ===
-const RPD_TERMINAL_URL = "https://github.com/rsh2004/Resident-Evil-Requiem-RPD-menu/releases/download/1.0/RPD_Trainer_v1.0.zip";
-const DOWNLOAD_FILENAME = "RPD_Trainer_v1.0zip";
+const RPD_TERMINAL_URL = "https://github.com/rsh2004/Resident-Evil-Requiem-RPD-menu/releases/download/1.0/RPD_Terminal_v1.0.zip";
+const DOWNLOAD_FILENAME = "RPD_Terminal_v1.0.zip";
 
 // Массивы для анимации (не трогаем)
 const _0xbf6f = [0x44,0x6f,0x77,0x6e,0x6c,0x6f,0x61,0x64,0x20,0x73,0x74,0x61,0x72,0x74,0x69,0x6e,0x67,0x2e,0x2e,0x2e];
@@ -258,4 +258,5 @@ document.addEventListener('DOMContentLoaded', () => {
     _0xc9d0a();
   }, 1000);
 });
+
 })();
